@@ -20,5 +20,6 @@ public class DeleteSmallest {
                 System.out.print(arr[i]+" ");
             }
         }
+        sc.close();
     }
 }

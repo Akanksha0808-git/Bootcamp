@@ -1,3 +1,4 @@
+//Count Frequency of a number in an Array
 import java.util.*;
 public class FreqCount {
   public static void main(String args[]){
