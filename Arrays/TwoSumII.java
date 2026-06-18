@@ -16,7 +16,7 @@ public class TwoSumII {
             if(result==target){
 System.out.println((i+1)+" "+(j+1));
 found=true;
-// return;
+
 break;
             }
             else if(result<target){
