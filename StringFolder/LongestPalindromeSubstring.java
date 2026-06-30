@@ -33,5 +33,6 @@ public class LongestPalindromeSubstring {
         }
 
         System.out.println("Longest Palindrome: " + ans);
+        sc.close();
     }
 }
