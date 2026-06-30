@@ -1,8 +1,10 @@
 package StringFolder;
-class Solution {
+import java.util.*;
+public class LongestPalindromeSubstring {
     public static void main(String[] args) {
-
-        String s = "babad";
+       Scanner sc =new Scanner(System.in);
+        
+        String s = sc.nextLine();
         String ans = "";
 
         for (int i = 0; i < s.length(); i++) {
