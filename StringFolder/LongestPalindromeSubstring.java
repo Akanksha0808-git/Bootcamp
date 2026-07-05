@@ -28,6 +28,7 @@ public class LongestPalindromeSubstring {
 
                 if (isPalindrome && sub.length() > ans.length()) {
                     ans = sub;
+                    
                 }
             }
         }

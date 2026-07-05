@@ -23,5 +23,6 @@ public class Palindrome {
         }
 
         sc.close();
+        
     }
 }
