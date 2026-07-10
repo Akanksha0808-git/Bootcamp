@@ -28,6 +28,7 @@ int mid=0, low=0, hi=nums.length-1;
             }
         }
        System.out.println(Arrays.toString(nums));
+       sc.close();
     }
  }
 
